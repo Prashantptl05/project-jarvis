@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Project J.A.R.V.I.S.</string>
+    <string name="hud_title">J.A.R.V.I.S.</string>
+    <string name="hud_subtitle">TACTICAL INTELLIGENCE OS</string>
+    <string name="status_idle">STANDBY // TAP CORE TO SPEAK</string>
+    <string name="status_listening">LISTENING // AUDIO LINK ACTIVE</string>
+    <string name="status_thinking">COMPUTING // NEURAL CORE ENGAGED</string>
+    <string name="status_speaking">TRANSMITTING // VOICE SYNTHESIS</string>
+    <string name="cmd_status_report">Status Report</string>
+    <string name="cmd_daily_briefing">Daily Briefing</string>
+    <string name="cmd_scan_object">Scan Object</string>
+    <string name="cmd_new_mission">New Mission</string>
+    <string name="input_placeholder">Transmit command or query, Sir…</string>
+    <string name="cd_arc_reactor">Arc Reactor AI Core, tap to toggle voice input</string>
+    <string name="cd_memory_vault">Open Neural Memory Vault</string>
+    <string name="cd_mission_control">Open Mission Control</string>
+    <string name="cd_core_settings">Open System Core Configuration</string>
+    <string name="cd_toggle_tts">Toggle voice synthesis audio</string>
+    <string name="cd_camera_scan">Capture photo for Gemini Vision analysis</string>
+    <string name="cd_gallery_scan">Pick image from gallery for Gemini Vision analysis</string>
+    <string name="cd_push_to_talk">Voice command microphone</string>
+    <string name="cd_send_command">Send command to J.A.R.V.I.S.</string>
+    <string name="cd_navigate_back">Return to Tactical HUD</string>
+    <string name="cd_attached_image">Attached image for visual analysis</string>
+    <string name="cd_remove_image">Remove attached image</string>
+    <string name="memory_vault_title">NEURAL MEMORY VAULT</string>
+    <string name="mission_control_title">MISSION CONTROL</string>
+    <string name="core_config_title">SYSTEM CORE CONFIG</string>
+    <string name="protocol_executing_prefix">EXECUTING PROTOCOL //</string>
+    <string name="confirm_protocol_title">AUTHORIZATION REQUIRED</string>
+    <string name="confirm_authorize">AUTHORIZE</string>
+    <string name="confirm_abort">ABORT</string>
+    <string name="mic_permission_denied">Microphone access denied. Enable audio permission in Android Settings to use voice commands, Sir.</string>
+</resources>
