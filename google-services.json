@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074869383693",
+    "project_id": "jarvis-hud-56c08",
+    "storage_bucket": "jarvis-hud-56c08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074869383693:android:c99fcdbe07aed7ca921b44",
+        "android_client_info": {
+          "package_name": "com.aistudio.jarvishud.qxkvnz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBWHvye13E0i_uQKR60Dxvy_zQ6EtVAqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
